@@ -20,4 +20,9 @@ Permite la exportacion e importacion de datos mediante un archivo ``JSON``
 3. Al hacer click en la opción `exportar` se creara un archivo llamado `tasks_exports.json`
 4. Al hacer click en `importar` se cargara la información que este alojada en el archivo `tasks_exports.json`
 
+### Guía IU
+
+![app](/app.png)
+
+
 ### josemartinezrdev - 2024
